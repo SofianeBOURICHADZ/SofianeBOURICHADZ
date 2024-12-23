@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SofianeBOURICHADZ
 - 👀 I’m interested in Cybersecurity, software engineering and Games Development.
-- 🌱 I’m currently learning Java, C++, JS and React.
+- 🌱 I’m currently learning Java, C++ and .NET
 - 💞️ I’m looking to collaborate on open source projects and make my own tools and libraries.
 - 📫 How to reach me ...
 - 😄 Pronouns: He.
